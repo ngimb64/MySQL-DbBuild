@@ -23,7 +23,7 @@
 - Download a xampp online ()
 - Open the xampp control panel and start the MySQL service
 - Open up Command Prompt (CMD)
-- Enter the directory containing the program and execute in shell
+- Enter the directory containing the program and execute in shell (dbBuilder.py)
 
 Note: Using a xampp might cause issues with creating users and permissions.
       If this occurs line 83 - 176 can be commented out or try to adjust xampp settings.
